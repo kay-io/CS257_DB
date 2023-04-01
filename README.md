@@ -1,1 +1,1 @@
-# CS257_DB
+# SQL Injection Detection, Prevention
